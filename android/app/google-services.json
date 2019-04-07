@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385132555541",
+    "firebase_url": "https://hackthonmovilidad.firebaseio.com",
+    "project_id": "hackthonmovilidad",
+    "storage_bucket": "hackthonmovilidad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385132555541:android:0bc2efe0f41233ba",
+        "android_client_info": {
+          "package_name": "in.javiermendoza.hackthon.cuatroruedas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385132555541-sb3rpr9iokqe44r8k4nd7s2kgb9ukos3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EidG-SE4uvCYBgz5Wkoom3ZI72fEvqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
